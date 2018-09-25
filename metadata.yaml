@@ -1,11 +1,16 @@
 _repo: Echoes-From-The-Orient-A-Broad-Outline-of-Theosophical-Doctrines_57292
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57292-h/images/cover.jpg
 creator:
   author:
     agent_name: Judge, Wiliam Q.
     gutenberg_agent_id: '49301'
     url: http://www.gutenberg.org/2009/agents/49301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57292#Echoes-From-The-Orient-A-Broad-Outline-of-Theosophical-Doctrines
 gutenberg_issued: '2018-06-09'
 gutenberg_type: Text
 identifiers:
